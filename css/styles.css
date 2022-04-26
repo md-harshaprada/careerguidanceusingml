@@ -3,11 +3,11 @@
 }
 
 body{
-    background-color: #e27a9a;
+    background-color: #ffffff;
 }
 
 #header-nav {
-    background-color: #92058b;
+    background-color: rgb(32, 37, 138);
     border-radius: 0;
     border: 0;    
     border: solid black 3px;
@@ -35,15 +35,15 @@ body{
 
 .text-center {
     font-family: 'Alfa Slab One';
-    font-size: 42px;
-    color: #d12064; 
+    font-size: 35px;
+    color: white; 
     position: relative;
     margin-top: 55px;
 }
 
 #text {       
     margin: 10px;
-    background-color: #5CDB95;
+    background-color: rgb(54, 115, 153);;
     font-family: 'Oxygen'; 
     font-size: 1.3em;
     font-weight: normal; 
@@ -256,7 +256,7 @@ button:hover{
 }
 
 footer{
-    background-color: gray;
+    background-color:rgb(32, 37, 138);
     color: white;
     height: 140px;
     position: absolute;
